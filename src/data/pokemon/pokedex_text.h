@@ -4,59 +4,59 @@ const u8 gDummyPokedexText[] = _(
     "No detailed information is available\n"
     "at this time.");
 
-const u8 gBulbasaurPokedexText[] = _(
-    "Bulbasaur can be seen napping in bright\n"
-    "sunlight. There is a seed on its back.\n"
-    "By soaking up the sun's rays, the seed\n"
-    "grows progressively larger.");
+const u8 gMeowshroomPokedexText[] = _(
+    "Meowshroom uses it's spores to lull\n"
+    "everything around it to sleep. They\n"
+    "are really quite popular among people\n"
+    "who struggle with insomnia.");
 
-const u8 gIvysaurPokedexText[] = _(
-    "To support its bulb, Ivysaur's legs\n"
-    "grow sturdy. If it spends more time lying in\n"
-    "the sunlight, the bud will soon bloom into\n"
-    "a large flower.");
+const u8 gFelifungiPokedexText[] = _(
+    "When they are not sleeping, Felifungi\n"
+    "is a fierce hunter. Their elongated maw\n"
+    "aids them in catching even the longest\n"
+    "of prey.");
 
-const u8 gVenusaurPokedexText[] = _(
-    "Venusaur's flower is said to take on vivid\n"
-    "colors if it gets plenty of nutrition and\n"
-    "sunlight. The flower's aroma soothes the\n"
-    "emotions of people.");
+const u8 gGarfungusPokedexText[] = _(
+    "It's body has grown so long, Garfungus\n"
+    "barely needs to move in order to hunt.\n"
+    "They often reserve their energy in order\n"
+    "to move at breakneck speeds.");
 
-const u8 gCharmanderPokedexText[] = _(
-    "The flame that burns at the tip of its\n"
-    "tail is an indication of its emotions.\n"
-    "The flame wavers when Charmander is\n"
-    "happy, and blazes when it is enraged.");
+const u8 gRizardPokedexText[] = _(
+    "Rizard's eyes are so small that they\n"
+    "need intense sunlight to see properly.\n"
+    "The flames they can spit out are much\n"
+    "more powerful during the summer.");
 
-const u8 gCharmeleonPokedexText[] = _(
-    "Without pity, its sharp claws destroy foes.\n"
-    "If it encounters a strong enemy, it\n"
-    "becomes agitated, and the flame on its\n"
-    "tail flares with a bluish white color.");
+const u8 gRuckagonPokedexText[] = _(
+    "Many people consider Ruckagon wise\n"
+    "beyond their years. Excess meditation\n"
+    "has honed equal parts their eyesight\n"
+    "and their pyrokinetic prowess.");
 
-const u8 gCharizardPokedexText[] = _(
-    "A Charizard flies about in search of\n"
-    "strong opponents. It breathes intense\n"
-    "flames that can melt any material. However,\n"
-    "it will never torch a weaker foe.");
+const u8 gChinglongPokedexText[] = _(
+    "Those who are fortunate may spot a\n"
+    "Chinglong flying high in the night\n"
+    "sky. However, Chinglong is unable\n"
+    "to see them back.");
 
-const u8 gSquirtlePokedexText[] = _(
-    "Its shell is not just for protection.\n"
-    "Its rounded shape and the grooves on its\n"
-    "surface minimize resistance in water,\n"
-    "enabling Squirtle to swim at high speeds.");
+const u8 gHipaloonPokedexText[] = _(
+    "Hipaloon is very dense for their size\n"
+    "and will eat almost anything it can find.\n"
+    "If there is nothing they can eat, they\n"
+    "will start eating their own bubbles.");
 
-const u8 gWartortlePokedexText[] = _(
-    "Its large tail is covered with rich, thick\n"
-    "fur that deepens in color with age.\n"
-    "The scratches on its shell are evidence\n"
-    "of this Pokémon's toughness in battle.");
+const u8 gCratoePokedexText[] = _(
+    "They digest things so quickly that it\n"
+    "needs to eat twice their weight in rocks\n"
+    "to survive. Despite this, Cratoe is\n"
+    "actually quite bouyant.");
 
-const u8 gBlastoisePokedexText[] = _(
-    "The waterspouts that protrude from its\n"
-    "shell are highly accurate. Their bullets of\n"
-    "water can precisely nail tin cans from\n"
-    "a distance of over 160 feet.");
+const u8 gHippobesePokedexText[] = _(
+    "This Pokémon has gained so much weight\n"
+    "that it has it's own gravitational pull.\n"
+    "This is mostly just used to pull nearby\n"
+    "food into it's mouth.");
 
 const u8 gCaterpiePokedexText[] = _(
     "Its voracious appetite compels it to\n"
